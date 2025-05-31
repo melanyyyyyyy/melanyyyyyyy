@@ -1,4 +1,4 @@
-👋🏼 Hi, I'm Melany!
+👋🏻 Hi, I'm Melany!
 
 💡 I'm studying Computer Engineering.
 
