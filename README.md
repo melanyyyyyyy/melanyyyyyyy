@@ -1,3 +1,7 @@
+👋🏼 Hi, I'm Melany!
+
+💡 I'm studying Computer Engineering.
+
 ![Codewars Badge](https://www.codewars.com/users/melanyyyyyyy/badges/large)
 
 <!--
